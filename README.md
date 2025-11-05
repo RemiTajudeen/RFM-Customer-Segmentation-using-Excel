@@ -38,6 +38,7 @@ For a comprehensive overview of the project, analysis, and inisght, please refer
 
 ![RFM Analysis - Top Customers Dashboard](https://github.com/RemiTajudeen/RFM-Customer-Segmentation-using-Excel/blob/main/RFM%20Analysis%20Top%20Customers%20Dashboard.png)
 ![RFM Analysis - Loyal Customers Dashboard](https://github.com/RemiTajudeen/RFM-Customer-Segmentation-using-Excel/blob/main/RFM%20Analysis%20Loyal%20Customers%20Dashboard.png)
+![RFM Analysis - Growth Customers Dashboard](https://github.com/RemiTajudeen/RFM-Customer-Segmentation-using-Excel/blob/main/RFM%20Analysis%20Growth%20Customers%20Dashboard.png)
 
 
 
