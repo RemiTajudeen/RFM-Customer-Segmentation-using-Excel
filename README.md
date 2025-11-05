@@ -36,7 +36,7 @@ Based on the analysis, below are the recommendations for marketing strategies.
 
 For a comprehensive overview of the project, analysis, and inisght, please refer to the documentation on [Medium](https://medium.com/@remi.tajudeen/rfm-analysis-customer-segmentation-using-excel-ea1ace354c86)
 
-![RFM Analysis - Top Customers Dashboard](https://github.com/RemiTajudeen/RFM-Customer-Segmentation-using-Excel/blob/main/RFM%20Analysis%20Top%20Customers%20KPI.png)
+![RFM Analysis - Top Customers Dashboard](https://github.com/RemiTajudeen/RFM-Customer-Segmentation-using-Excel/blob/main/RFM%20Analysis%20Top%20Customers%20Dashboard.png)
 
 
 
