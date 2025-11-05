@@ -8,7 +8,7 @@ This project utilises RFM analysis in Microsoft Excel to segment Royal Stores' c
 To optimise marketing spend by identifying high-value customer segments and understanding their purchase behavior.
 
 ## Dataset Description
-The dataset was sourced from kaggle and it contains information on 2,240 customers with 27 columns. The dataset includes columns such as age, income, marital Status, education, number of web, catalog, and in-store purchases, amount spent on wines, fruits, meat, fish, sweets, and gold products.
+The dataset was sourced from kaggle and it contains information on 2,240 customers with 29 columns. The dataset includes columns such as age, income, marital Status, education, number of web, catalog, and in-store purchases, amount spent on wines, fruits, meat, fish, sweets, and gold products.
 
 ## Project Methodology
 Outlined below is a summary of the method used for the RFM analysis in Excel.
